@@ -66,12 +66,12 @@ pip install requests
 
 ## Chạy cơ bản
 ```bash
-python landsat.py NASA
+python your name in landsat.py NASA
 ```
 
 ## Chỉ định thư mục output
 ```bash
-python landsat.py NASA --out output_folder
+python your name in landsat.py NASA --out output_folder
 ```
 
 ---
